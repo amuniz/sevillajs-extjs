@@ -1,0 +1,19 @@
+{
+  "people": [{
+    "name": "Antonio",
+    "surname": "Muñiz",
+    "age": 30
+  }, {
+    "name": "Julián",
+    "surname": "López",
+    "age": 60
+  }, {
+    "name": "Pepe",
+    "surname": "Ramírez",
+    "age": 50
+  } , {
+    "name": "Pepe",
+    "surname": "Ramírez",
+    "age": 50
+  }]
+}
