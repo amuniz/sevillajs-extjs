@@ -9,8 +9,7 @@ This folder contains static resources (typically an `"images"` folder as well).
 # SevillaJS/overrides
 
 This folder contains override classes. All overrides in this folder will be 
-automatically included in application builds if the target class of the override
-is loaded.
+automatically included in application builds if the target class of the override is loaded.
 
 # SevillaJS/sass/etc
 
