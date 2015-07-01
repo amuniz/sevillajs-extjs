@@ -6,6 +6,7 @@ This folder contains the javascript files for the application.
 
 This folder contains static resources (typically an `"images"` folder as well).
 
+
 # SevillaJS/overrides
 
 This folder contains override classes. All overrides in this folder will be 
