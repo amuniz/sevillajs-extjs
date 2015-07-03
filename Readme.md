@@ -1,5 +1,6 @@
 # SevillaJS/app
 
+
 This folder contains the javascript files for the application.
 
 # SevillaJS/resources
